@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matin</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 💬 Ask me about **CSS, JavaScript, ReactJS** - 📫 How to reach me
-**matin.farzamnia85@gmail.com**
+- 💬 Ask me about **CSS, JavaScript, ReactJS** 
+- 📫 How to reach me **matin.farzamnia85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
