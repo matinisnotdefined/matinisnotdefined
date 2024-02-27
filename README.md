@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matin Farzamnia</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
-- 🔭 I’m currently working on **DanoupGuys Team**
+- 🔭 I’m currently working on **Teenup**
 
 - 🌱 I’m currently learning **Nuxt**
 
